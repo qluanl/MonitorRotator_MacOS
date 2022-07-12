@@ -2,6 +2,8 @@
 
 ### A command line tool to rotate monitors.
 
+Works on MacOS 10.15, other versions are not guaranteed.
+
 ### Usage: 
 `./MonitorRotator` check the connected monitors.
 
