@@ -2,7 +2,8 @@
 //  main.c
 //  MonitorRotator
 //
-//  Created by 李晟皋 on 2022/7/12.
+//  Created by WhiteBook on 2021/10/22.
+//  Finished on 2022/7/12
 //
 
 #include <stdio.h>
